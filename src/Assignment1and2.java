@@ -7,5 +7,8 @@ public class Assignment1and2 {
 
         // Assignment2
         System.out.println("Size of the String name is "+ name.length());
+
+        // Explaination about the name String length
+        // String length become 4 because I have to assign 4 UTF-16 character to name String for my name.
     }
 }
